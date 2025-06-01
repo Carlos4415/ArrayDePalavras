@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\carlo\\source\\repos\\ArrayDePalavras\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{784DE940-37FB-41EE-ADAB-CCD3ED450900}|ArrayDePalavras.csproj|c:\\users\\carlo\\source\\repos\\arraydepalavras\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{784DE940-37FB-41EE-ADAB-CCD3ED450900}|ArrayDePalavras.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{784DE940-37FB-41EE-ADAB-CCD3ED450900}|ArrayDePalavras.csproj|c:\\users\\carlo\\source\\repos\\arraydepalavras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784DE940-37FB-41EE-ADAB-CCD3ED450900}|ArrayDePalavras.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\ArrayDePalavras\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\ArrayDePalavras\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-01T02:16:48.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\ArrayDePalavras\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\carlo\\source\\repos\\ArrayDePalavras\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T01:52:29.675Z",
               "EditorCaption": ""
